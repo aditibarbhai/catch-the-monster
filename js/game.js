@@ -153,7 +153,7 @@ var render = function() {
 	ctx.font = "24px Helvetica";
 	ctx.textAlign = "left";
 	ctx.textBaseline = "top";
-	ctx.fillText("Goblins caught: " + monstersCaught, 32, 32);
+	ctx.fillText("Monsters caught: " + monstersCaught, 32, 32);
 }
 
 /* MAIN GAME LOOP */
