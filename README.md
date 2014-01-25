@@ -1,6 +1,8 @@
 # Catch The Monster! 
 <em>A Simple HTML5 Game</em>
 
+[See the demo here](http://aditibarbhai.github.io/catch-the-monster/)
+
 Catch The Monster is a simple HTML5 I made following [this tutorial](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/).
 
 There are some bugs in the original code which I have fixed in my version, namely:
